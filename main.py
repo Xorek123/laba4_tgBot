@@ -4,7 +4,7 @@ import requests
 from telegram import Update, ForceReply,InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext, CallbackQueryHandler,ContextTypes
 
-TOKEN = "5804092473:AAGMH6x7iywsolwHwgh_jrBPasZ19FdPp_c"
+TOKEN = "Токен"
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
